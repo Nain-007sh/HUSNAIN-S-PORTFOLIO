@@ -1,4 +1,4 @@
-# Muhammad Husnain Raheem – Portfolio Website
+# Muhammad Husnain Raheem –- Portfolio Website
 
 A modern and responsive personal portfolio website showcasing my skills, projects, certifications, and professional journey in Data Analytics, Data Science, and Business Intelligence.
 
